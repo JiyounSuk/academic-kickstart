@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiyoun Suk
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Journalism and Mass Communication
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Wisconsin-Madison
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include networked communication and public opinion formation, computational social science, and political information processing.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +28,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jsuk2@wisc.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jiyoun_suk
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=M8Ynp9kAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JiyounSuk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +54,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the School of Journalism and Mass Communication at the University of Wisconsin-Madison. I am also Helen Firstbrook Franklin Wisconsin Distinguished Graduate Fellow.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I study how people understand politics through a lens of identities, local communities, and networked media ecologies surround them. To do so, I employ computational approaches to identify information flows and communication dynamics.
+
+In my disseration, I examine how structural inequalities in localities and networked communication flows surrounding individuals interply to influence polarized trust in social groups and institutions. I triangulate computational, contextual, and public opinion data with a goal of identifying the nature of networked communication flows and local contexts in which individuals are embedded and linking with the self-reported panel data.
+
+I am well-versed in conducting computational communication research and specifically adept in using R and Python. Throughout my doctoral program, I have been working as the Knight Scholar of [Communications and Civic Renewal](https://mcrc.journalism.wisc.edu/groups/cccp/) with guidance of Profs. Dhavan Shah, Lew Friedland, Michael Wagner, Katherine Cramer, and Chris Wells, and participated in various research groups as a student lead or member ([Social Media and Democracy Group](https://mcrc.journalism.wisc.edu/groups/smad/), [International Communication Research Group](https://mcrc.journalism.wisc.edu/groups/icrg/), and [Computational Methods Research Group](https://computational.journalism.wisc.edu/)).
+
+Besides research, I really love cycling and jogging! I am also a huge animal lover. I enjoy drawing cartoons (Meet Rocky in Gallery).
+
