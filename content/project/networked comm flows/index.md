@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/jiyoun_suk
 slides: Networked communication flows 
-summary: Dynamics of networked communications in hybrid media system and their democratic consequences
+summary: Communication dynamics and democratic consequences
 tags:
 - network analysis
 - communication flows
