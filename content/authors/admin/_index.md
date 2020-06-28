@@ -57,13 +57,13 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the School of Journalism and Mass Communication at the University of Wisconsin-Madison. I am also Helen Firstbrook Franklin Wisconsin Distinguished Graduate Fellow for 2020-2021.
+I am a Ph.D. candidate in the School of Journalism and Mass Communication at the University of Wisconsin-Madison. I am also the Helen Firstbrook Franklin Wisconsin Distinguished Graduate Fellow for 2020-2021.
 
 I study how people understand politics through a lens of identities, local communities, and networked media ecologies surround them. To do so, I employ computational approaches to identify information flows and communication dynamics.
 
-In my disseration, I examine how structural inequalities in localities and networked communication flows surrounding individuals interply to influence polarized trust in social groups and institutions. I triangulate **computational, contextual, and public opinion data** with a goal of identifying the nature of networked communication flows and local contexts in which individuals are embedded and linking with the self-reported panel data.
+In my dissertation, I examine how structural inequalities in localities and networked communication flows surrounding individuals interplay to influence polarized trust in social groups and institutions. I triangulate **computational, contextual, and public opinion data** with a goal of identifying the nature of networked communication flows and local contexts in which individuals are embedded and linking with the self-reported panel data.
 
-I am well-versed in conducting computational communication research and specifically adept in using *R* and *Python*. Throughout my doctoral program, I have been working as the Knight Scholar of [Communications and Civic Renewal](https://mcrc.journalism.wisc.edu/groups/cccp/) with guidance of Profs. Dhavan Shah, Lew Friedland, Michael Wagner, Katherine Cramer, and Chris Wells, and participated in various research groups as a student lead or member ([Social Media and Democracy Group](https://mcrc.journalism.wisc.edu/groups/smad/), [International Communication Research Group](https://mcrc.journalism.wisc.edu/groups/icrg/), and [Computational Methods Research Group](https://computational.journalism.wisc.edu/)).
+I am well-versed in conducting computational communication research and specifically adept in using *R* and *Python*. Throughout my doctoral program, I have been working as the Knight Scholar of [Communications and Civic Renewal](https://mcrc.journalism.wisc.edu/groups/cccp/) with the guidance of Profs. Dhavan Shah, Lew Friedland, Michael Wagner, Katherine Cramer, and Chris Wells, and participated in various research groups as a student lead or member ([Social Media and Democracy Group](https://mcrc.journalism.wisc.edu/groups/smad/), [International Communication Research Group](https://mcrc.journalism.wisc.edu/groups/icrg/), and [Computational Methods Research Group](https://computational.journalism.wisc.edu/)).
 
 Besides research, I really love cycling and jogging! I am also a huge animal lover. I enjoy drawing cartoons (Meet Rocky in [Gallery](https://jiyounsuk.github.io/#gallery)).
 
