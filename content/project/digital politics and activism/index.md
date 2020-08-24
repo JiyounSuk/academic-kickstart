@@ -9,21 +9,21 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/jiyoun_suk
-slides: Networked communication flows 
+slides: Digital Politics and Activism 
 summary: Communication dynamics and democratic consequences
 tags:
 - network analysis
 - communication flows
 - news media
 - social media
-title: Networked communication flows
+title: Digital Politics and Activism
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Focusing on the shifting communication ecologies and changing media environment, this line of research investigates the dynamics of online discourses, their relationships with external events and news media coverage, and democratic consequences such as political actions and social trust. Some of my research further look at dissemination of Russian disinformation messages in online sphere and their infiltration into the US media system.
+Focusing on the shifting communication ecologies and changing media environment, this line of research investigates the dynamics of (dis/mis)information flows, their relationships with external events and news media coverage, and democratic consequences such as political actions and social trust. Some of my research further look at dissemination of Russian disinformation messages in online sphere and their infiltration into the US media system.
 
 **Selected publications and manuscripts in progress:**
 
