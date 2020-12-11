@@ -38,6 +38,9 @@ Below are selected publications and manuscripts in progress that highlight compu
 
 Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., **Suk, J.**, Kim, S., Sun, Z., Pevehouse, J. & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. *Journal of Computer-Mediated Communication*, 24(4), 182-202. doi: 10.1093/jcmc/zmz009
 
+Ghosh, S., Su, M., Aman, A., **Suk, J.**, Tong, C., Hills, O., Correa, T., Garlough, C., Borah, P., & Shah, D. (2020). Covering #MeToo Across the News Spectrum: Political Accusation and
+Public Events as Drivers of Press Attention. *International Journal of Press/Politics*
+
 **Suk, J.**, Lukito, J., Su, M., Kim, S. J., Tong, C., Sun, Z., & Sarma, P. Do I sound American? Predicting Disinformation Sharing of Russian IRA tweets from a Linguistic Perspective.
 
 **Suk, J.**, Zhang, Y., Lukito, J., Su, M., & Foley, J. Tracing Twitter Buzz: Clustering Hashtags and Handles About Mass Shootings and Gun Control.

@@ -29,9 +29,12 @@ Focusing on the shifting communication ecologies and changing media environment,
 
 **Suk, J.**, Abhishek, A., Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., & Shah, D. V. (2019).#MeToo, Networked Acknowledgment, and Connective Action: How "Empowerment Through Empathy" Launched a Social Movement. *Social Science Computer Review*. doi: 10.1177/0894439319864882
 
-Lukito, J., **Suk, J.**, Zhang, Y., Doroshenko, L., Su, M., Kim, S. J., Xia, Y., Freelon, D., & Wells, C. (2019) TheWolves in Sheep's Clothing: How Russia's Internet Research Agency Tweets Appeared in U.S. News as Vox Populi. *International Journal of Press/Politics*. doi: 10.1177/1940161219895215
+Lukito, J., **Suk, J.**, Zhang, Y., Doroshenko, L., Su, M., Kim, S. J., Xia, Y., Freelon, D., & Wells, C. (2019) The Wolves in Sheep's Clothing: How Russia's Internet Research Agency Tweets Appeared in U.S. News as Vox Populi. *International Journal of Press/Politics*. doi: 10.1177/1940161219895215
 
 Zhang, Y., Shah, D., Foley, J., Abhishek, A., Lukito, J., **Suk, J.**, Kim, S., Sun, Z., Pevehouse, J. & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012-2014. *Journal of Computer-Mediated Communication*, 24(4), 182-202. doi: 10.1093/jcmc/zmz009
+
+Ghosh, S., Su, M., Aman, A., **Suk, J.**, Tong, C., Hills, O., Correa, T., Garlough, C., Borah, P., & Shah, D. (2020). Covering #MeToo Across the News Spectrum: Political Accusation and
+Public Events as Drivers of Press Attention. *International Journal of Press/Politics*
 
 Zhang, Y., Wang, Y., Foley, J., **Suk, J.**, & Conathan, D. (2017, July). Tweeting mass shootings: the dynamics of issue attention on social media. In *Proceedings of the 8th International Conference on Social Media & Society* (pp. 1-5).
 

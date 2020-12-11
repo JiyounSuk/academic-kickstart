@@ -28,6 +28,9 @@ I examine how the cultural, political, and social contexts surrounding individua
 
 **Suk, J.**, Shah, D., Wells, C, Wagner, M., Friedland, L., Cramer, K., Hughes, C., & Franklin, C. (2020). Do Improving Conditions Harden Partisan Preferences? Communication, Context, and Political Evaluations During Periods of Contention. *International Journal of Public Opinion Research*. doi: 10.1093/ijpor/edz051
 
+Dempsey, S., **Suk, J.**, Cramer, K., Friedland, L., Wagner, M., & Shah, D. (2020). Under-
+standing Trump Supporters' News Use: Beyond the Fox News Bubble. *The Forum*
+
 **Suk, J.**, McLeod, D., & Shah, D. Am I with Her or with...Him?: How Political Contextual Factors Drove Public and Online Participation in the 2016 US Presidential Election.
 
 Li, J., **Suk, J.**, Lukito, J., Hughes, C., Foley, J., Friedland, L., Wells, C., Shah, D., & Wagner, M. When the Desert Matters: Contextual Differences in Local News Environment and Polarized Perceptions of Local Economy.
